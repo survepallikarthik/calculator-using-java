@@ -44,7 +44,7 @@ Thank you for visiting our calculator!
 
 
 
-###  🛠️ Concepts Used
+*** 🛠️ Concepts Used ***
 
 Java methods
 
