@@ -44,14 +44,31 @@ Thank you for visiting our calculator!
 
 
 
-*** 🛠️ Concepts Used ***
+## 🛠️ Concepts Used
 
-Java methods
+This project demonstrates the following core Java concepts:
 
--Scanner class for input
+- **Scanner class**  
+  Used to take input from the user (numbers and operations).
 
--try-catch for exception handling
+- **Methods**  
+  Used to divide the program into reusable blocks like `getNumber()`, `getOperation()`, etc.
 
--switch-case for operations
+- **Exception Handling (`try-catch`)**  
+  To handle invalid inputs gracefully when the user enters a non-numeric value.
 
--Loops and conditionals
+- **Switch Case**  
+  To perform the operation (`+`, `-`, `*`, `/`) based on user input.
+
+- **Loops (`while`)**  
+  To repeatedly prompt the user until valid input is given and allow multiple calculations.
+
+- **Conditionals (`if-else`)**  
+  Used for decision-making, such as checking for division by zero or confirming whether the user wants to continue.
+
+- **Boolean Control Flag**  
+  A `boolean` variable is used to control whether to continue or exit the calculator.
+
+- **Basic Input Validation**  
+  To ensure correct operation and prevent runtime crashes due to invalid data.
+
